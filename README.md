@@ -1,1 +1,2 @@
-# Eye-gazed-wheelchair
+# ParalyticAssistant
+Designed a gaze-guided bluetooth enabled wheelchair, and an android application for remote control. A technical aid to paralysis affected patients. The wheelchair is also extended to have additional features like entertainment hub, SOS, SMS, call facilities and is expected to have fall detection also integrated. A robot with a simple chassis, bluetooth module, motor drivers and arduino board, is simulated as a wheelchair and the project is implemented to demonstrate the application of various features on the same. Project presented in RoboFest Hackathon, organised by IEEE RAS PESU.
